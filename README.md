@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Baha Amir - Blockchain & Full Stack Developer" />
+</p>
 # 👋 Hi, I'm Baha Eddin Amir
 
 
