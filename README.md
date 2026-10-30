@@ -160,7 +160,7 @@ A full-stack learning management platform designed to connect students, instruct
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BahaEddinAmir&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BahaEddinAmir&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
