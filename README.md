@@ -142,8 +142,9 @@ A full-stack learning management platform designed to connect students, instruct
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BahaEddinAmir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahaEddinAmir&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=BahaEddinAmir&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BahaEddinAmir&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
