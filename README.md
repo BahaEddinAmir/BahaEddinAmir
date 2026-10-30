@@ -1,68 +1,104 @@
 # 👋 Hi, I'm Baha Eddin Amir
 
-### Full-Stack Developer | Blockchain & Web3 | Cybersecurity Enthusiast
+<h3 align="center">Full-Stack Developer | Blockchain & Web3 | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Tunisia-142B4A?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interests-Blockchain%20%7C%20Cybersecurity-142B4A?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=BahaEddinAmir&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/BahaEddinAmir?label=Followers&style=flat-square&color=blue" alt="Followers" />
 </p>
 
-I'm a Computer Science student at **ISI Kef, Tunisia**, interested in building practical software applications and exploring emerging technologies.
-
-I enjoy learning by building, understanding how systems work, and solving technical problems.
-
-My main interests are **Full-Stack Development, Backend Engineering, Blockchain Technology, Web3 and Cybersecurity**.
-
 ---
 
-## 👨‍💻 About Me
+## 💻 Developer Profile
+
+```text
+    ____  __    ____  ________ __________  _____    _____   __   ___        ________  ____    __       ______________   ________ __    ____  _______    __________    ____  ____  __________ 
+   ╱ __ )╱ ╱   ╱ __ ╲╱ ____╱ ╱╱_╱ ____╱ ╱ ╱ ╱   │  ╱  _╱ │ ╱ ╱  ( _ )      ╱ ____╱ ╱ ╱ ╱ ╱   ╱ ╱      ╱ ___╱_  __╱   │ ╱ ____╱ ╱╱_╱   ╱ __ ╲╱ ____╱ │  ╱ ╱ ____╱ ╱   ╱ __ ╲╱ __ ╲╱ ____╱ __ ╲
+  ╱ __  ╱ ╱   ╱ ╱ ╱ ╱ ╱   ╱ ,< ╱ ╱   ╱ ╱_╱ ╱ ╱│ │  ╱ ╱╱  │╱ ╱  ╱ __ ╲╱│   ╱ ╱_  ╱ ╱ ╱ ╱ ╱   ╱ ╱       ╲__ ╲ ╱ ╱ ╱ ╱│ │╱ ╱   ╱ ,<     ╱ ╱ ╱ ╱ __╱  │ │ ╱ ╱ __╱ ╱ ╱   ╱ ╱ ╱ ╱ ╱_╱ ╱ __╱ ╱ ╱_╱ ╱
+ ╱ ╱_╱ ╱ ╱___╱ ╱_╱ ╱ ╱___╱ ╱│ ╱ ╱___╱ __  ╱ ___ │_╱ ╱╱ ╱│  ╱  ╱ ╱_╱  <   ╱ __╱ ╱ ╱_╱ ╱ ╱___╱ ╱___    ___╱ ╱╱ ╱ ╱ ___ ╱ ╱___╱ ╱│ │   ╱ ╱_╱ ╱ ╱___  │ │╱ ╱ ╱___╱ ╱___╱ ╱_╱ ╱ ____╱ ╱___╱ _, _╱ 
+╱_____╱_____╱╲____╱╲____╱_╱ │_╲____╱_╱ ╱_╱_╱  │_╱___╱_╱ │_╱   ╲____╱╲╱  ╱_╱    ╲____╱_____╱_____╱   ╱____╱╱_╱ ╱_╱  │_╲____╱_╱ │_│  ╱_____╱_____╱  │___╱_____╱_____╱╲____╱_╱   ╱_____╱_╱ │_│  
+                                                                                                                                                                                             
+```
+
+I'm a Computer Science student at **ISI Kef, Tunisia**, passionate about software engineering, blockchain technology and cybersecurity.
+
+I enjoy building practical applications, exploring new technologies and understanding how things work under the hood.
 
 - 🎓 Computer Science student at ISI Kef, Tunisia.
-- 💻 Interested in software engineering and full-stack development.
-- 🔐 Exploring cybersecurity and secure application development.
-- 🔗 Building projects involving Ethereum and smart contracts.
+- 💻 Interested in Full-Stack and Backend Development.
+- 🔐 Exploring Cybersecurity and secure application development.
+- 🔗 Developing projects involving Ethereum and smart contracts.
 - 🤖 Experimenting with AI-powered applications and intelligent agents.
-- 🌱 Currently improving my Java, Spring Boot, Angular, Solidity and Rust skills.
+- 🌱 Currently learning Java, Spring Boot, Angular, Solidity and Rust.
 - 🎯 Preparing for international internship and postgraduate opportunities.
-- 📚 Learning through practical projects and continuous experimentation.
+
+### 💬 Ask me about
+
+- Java and Spring Boot
+- Angular and TypeScript
+- Solidity and Ethereum
+- Blockchain and Web3 development
+- REST APIs and PostgreSQL
+
+### 🚀 Currently working on
+
+- Certificate Verification dApp — Angular + Solidity.
+- AgentMaxxin — AI Agent + Blockchain Wallet.
+- E-Learning Platform — Angular + Spring Boot.
+
+### 📫 Contact
+
+- GitHub: [@BahaEddinAmir](https://github.com/BahaEddinAmir)
+- Location: Tunisia 🇹🇳
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/BahaEddinAmir">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,solidity,rust" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,ts,js,solidity,rust" alt="Programming languages"/>
 </p>
 
 ### Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind" alt="Frontend technologies"/>
 </p>
 
 ### Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" alt="Backend technologies"/>
 </p>
 
-### Databases & Development Tools
+### Databases and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,idea,vscode,linux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,idea,vscode,linux" alt="Tools and databases"/>
 </p>
 
-### Blockchain & Web3
+### Blockchain and Web3
 
-- Solidity and Ethereum Smart Contracts
-- Hardhat
-- Ethers.js and Viem
-- MetaMask
-- Ethereum Sepolia
-- Base Sepolia
+<p align="left">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardhat-FCC72B?style=flat-square&logo=hardhat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MetaMask-E27625?style=flat-square&logo=metamask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sepolia-Testnet-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Base-Sepolia-0052FF?style=flat-square"/>
+</p>
 
 ---
 
@@ -72,85 +108,60 @@ My main interests are **Full-Stack Development, Backend Engineering, Blockchain 
 
 A decentralized application for issuing and verifying certificates using Ethereum smart contracts.
 
-**Tech:** Angular, TypeScript, Solidity, Hardhat, Ethers.js, Ethereum.
+**Stack:** Angular, TypeScript, Solidity, Hardhat, Ethers.js.
 
-**Highlights:**
-- MetaMask wallet integration.
+- MetaMask integration.
 - Smart contract deployment on Sepolia.
-- Certificate issuance and verification workflows.
-- On-chain certificate verification.
-- Blockchain transaction and RPC reliability improvements.
+- Certificate issuance and verification.
+- On-chain verification.
 
-**Status:** Ongoing development and reliability improvements.
-
-🔗 [Repository](https://github.com/BahaEddinAmir/cert-dapp)
-
----
+[View Repository](https://github.com/BahaEddinAmir/cert-dapp)
 
 ### 2. AgentMaxxin – AI Agent with Blockchain Wallet
 
 An experimental AI agent combining conversational AI, tool execution and blockchain wallet functionality.
 
-**Tech:** Next.js, TypeScript, React, Google Gemini API, Viem, Base Sepolia.
+**Stack:** Next.js, TypeScript, Google Gemini API, Viem, Base Sepolia.
 
-**Highlights:**
 - AI-powered conversational agent.
-- Tool execution and external API interaction.
-- Wallet creation and management.
+- Tool execution.
+- Wallet management.
 - Blockchain balance and transaction lookup.
-- Mock payment-gated API inspired by x402.
+- Simulated payment-gated API inspired by x402.
 
-**Note:** Payment-gated API functionality is simulated; no real USDC transfer is performed.
+**Note:** No real USDC transfer is performed by the payment simulation.
 
-**Status:** Experimental development.
-
-🔗 [Repository](https://github.com/BahaEddinAmir/my-agent)
-
----
+[View Repository](https://github.com/BahaEddinAmir/my-agent)
 
 ### 3. E-Learning Platform
 
 A full-stack learning management platform designed to connect students, instructors and administrators.
 
-**Tech:** Angular, Java, Spring Boot, PostgreSQL.
+**Stack:** Angular, Java, Spring Boot, PostgreSQL.
 
-**Planned features:**
-- User and course management.
+- Course and module management.
 - Student enrollment.
-- Learning modules with video and PDF resources.
+- Video and PDF resources.
 - Quizzes and learning progress.
 - Course completion certificates.
 
-**Status:** Development in progress.
-
-🔗 [Repository](https://github.com/BahaEddinAmir/e-learning)
-
----
-
-## 📚 Currently Learning
-
-| Domain | Focus |
-|---|---|
-| Software Engineering | Clean code, architecture and testing |
-| Backend Development | Java, Spring Boot, Node.js |
-| Frontend Development | Angular, TypeScript |
-| Blockchain | Solidity, Ethereum, Smart Contracts |
-| Web3 | Viem, Ethers.js |
-| Cybersecurity | Application security and secure APIs |
-| Systems Programming | Rust fundamentals |
-| AI Development | AI agents and tool integration |
+[View Repository](https://github.com/BahaEddinAmir/e-learning)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BahaEddinAmir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahaEddinAmir&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BahaEddinAmir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahaEddinAmir&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
+---
+
+## 🔥 GitHub Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BahaEddinAmir&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=BahaEddinAmir&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
 </p>
 
 ---
@@ -158,25 +169,13 @@ A full-stack learning management platform designed to connect students, instruct
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BahaEddinAmir&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/BahaEddinAmir">
-    <img src="https://img.shields.io/badge/GitHub-Profile-142B4A?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BahaEddinAmir&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution activity graph"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building today what I want to master tomorrow."</i>
-</p>
-
-<p align="center">
+  <b>Building today what I want to master tomorrow.</b>
+  <br/>
   ⭐ Thanks for visiting my profile!
 </p>
