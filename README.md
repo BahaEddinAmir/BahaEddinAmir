@@ -127,24 +127,6 @@ A full-stack learning management platform designed to connect students, instruct
 
 ---
 
-### 4. DevTrack – Developer Tracking Platform
-
-A backend-focused full-stack project exploring REST APIs, database integration and software architecture.
-
-**Tech:** Node.js, Express.js, PostgreSQL.
-
-**Focus:**
-- REST API development.
-- Database design and integration.
-- Backend architecture.
-- Maintainable and organized code.
-
-**Status:** Development in progress.
-
-🔗 [Repository](https://github.com/BahaEddinAmir/DevTrack)
-
----
-
 ## 📚 Currently Learning
 
 | Domain | Focus |
