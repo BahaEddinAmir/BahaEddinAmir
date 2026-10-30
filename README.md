@@ -1,15 +1,5 @@
 # 👋 Hi, I'm Baha Eddin Amir
 
-<h3 align="center">Full-Stack Developer | Blockchain & Web3 | Cybersecurity Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BahaEddinAmir&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/BahaEddinAmir?label=Followers&style=flat-square&color=blue" alt="Followers" />
-</p>
-
----
-
-## 💻 Developer Profile
 
 ```text
     ____  __    ____  ________ __________  _____    _____   __   ___        ________  ____    __       ______________   ________ __    ____  _______    __________    ____  ____  __________ 
